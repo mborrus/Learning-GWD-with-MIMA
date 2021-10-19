@@ -9,20 +9,26 @@ Getting Started
 1. Create virtual environment
 ```sh
 $ python -m venv env
+$ source env/bin/activate
 ```
 2. Clone repo into env
 ```sh
+$ cd ./env
 $ git clone https://github.com/zacespinosa/Learning-GWD-with-MIMA
 ```
 3. Install `lrgwd`
 ```sh
-$ pip install lrgwd
 $ pip install ./Learning-GWD-with-MIMA/
 ```
 4. Install depenencies as needed (I haven't got around to updating `setup.py` with all requirements yet)
 
 Dependencies I needed:
-click
+```sh
+$ pip install click
+$ pip install matplotlib
+$ pip install pandas
+$ pip install 
+```
 
 ## Pipeline Overview
 This outline does not list all flag for each command. To see all flags use `--help`.
