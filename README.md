@@ -12,7 +12,7 @@ $ python -m venv env
 ```
 2. Clone repo into env
 ```sh
-$ git clone **SEE SPECIFIC LINK -- UPDATE LATER**
+$ git clone https://github.com/zacespinosa/Learning-GWD-with-MIMA
 ```
 3. Install `lrgwd`
 ```sh
