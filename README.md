@@ -22,6 +22,7 @@ $ pip install ./Learning-GWD-with-MIMA/
 4. Install depenencies as needed (I haven't got around to updating `setup.py` with all requirements yet)
 
 Dependencies I needed:
+click
 
 ## Pipeline Overview
 This outline does not list all flag for each command. To see all flags use `--help`.
