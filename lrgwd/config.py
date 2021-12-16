@@ -26,7 +26,7 @@ MIMA = {
     }
 }
 
-FEATURES = ["temp", "hght", "ucomp", "vcomp", "omega", "level", "slp", "gwfu_cgwd", "gwfv_cgwd"]
+FEATURES = ["temp", "hght", "ucomp", "vcomp", "omega", "slp", "gwfu_cgwd", "gwfv_cgwd"]
 
 # TOP 18 pressure levels have non zero gwd values
 NON_ZERO_GWD_PLEVELS = 33
