@@ -28,7 +28,7 @@ python lrgwd extractor \\
     --save-path ./runs/data/dev/ingestor/raw_data.npz \\
     --source-path ./runs/data/dev/extractor \\
     --features hght --features temp --features ucomp --features vcomp --features omega \\
-    --pressure-levels 22 \\
+    --plevels-included 22 \\
     --shuffle \\
 """
 @click.command("extractor")
