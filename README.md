@@ -20,15 +20,7 @@ $ git clone https://github.com/zacespinosa/Learning-GWD-with-MIMA
 ```sh
 $ pip install ./Learning-GWD-with-MIMA/
 ```
-4. Install depenencies as needed (I haven't got around to updating `setup.py` with all requirements yet)
-
-Dependencies I needed:
-```sh
-$ pip install click
-$ pip install matplotlib
-$ pip install pandas
-$ pip install 
-```
+4. This shoudl install the depenencies as needed 
 
 ## Pipeline Overview
 This outline does not list all flag for each command. To see all flags use `--help`.
